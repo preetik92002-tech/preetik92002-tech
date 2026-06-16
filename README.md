@@ -29,7 +29,7 @@ I'm a passionate developer who loves building innovative solutions and exploring
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preetik92002-tech&show_icons=true&theme=visual_studio_dark&hide_border=true" alt="Preeti's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=preetik92002-tech&show_icons=true&theme=visual_studio_dark&v=1" alt="Preeti's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=preetik92002-tech&theme=visual_studio_dark&hide_border=true" alt="Preeti's Streak Stats" width="48%" />
 </p>
 
