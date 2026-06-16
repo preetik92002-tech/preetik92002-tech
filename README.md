@@ -12,7 +12,7 @@ I'm a passionate developer who loves building innovative solutions and exploring
 - 🔭 **Current Focus:** Building impactful web applications.
 - 🌱 **Learning:** Advanced system design and cloud architecture.
 - 💬 **Ask me about:** JavaScript, React, or anything tech-related!
-- 📫 **How to reach me:** `preetik92002@gmail.com`
+- 📫 **How to reach me:** preetik92002@gmail.com
 
 ---
 
@@ -37,10 +37,10 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
