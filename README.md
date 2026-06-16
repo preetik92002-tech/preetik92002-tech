@@ -1,3 +1,7 @@
+<img width="1983" height="793" alt="git hub" src="https://github.com/user-attachments/assets/d425afd6-6241-4096-849d-16cdfbba4e6f" />
+
+ 
+ 
  # Hi there, I'm Preeti! 👋
 
 <p align="center">
